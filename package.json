@@ -1,0 +1,11 @@
+{
+  "name": "lm-studio-chat",
+  "scripts": {
+    "dev": "vite --port 7777",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.5.9"
+  }
+}
